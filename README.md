@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Saha</h1>
 <h3 align="center">Learning frontend development</h3>
 
-<img align="center" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw0airWhi51NY45rvUGHjFux&ust=1694970531380000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCCx7XPr4EDFQAAAAAdAAAAABAp">
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaaditi24&label=Profile%20views&color=0e75b6&style=flat" alt="sahaaditi24" /> </p>
 
