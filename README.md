@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Saha</h1>
-<h3 align="center">Learning frontend development</h3>
+<h3 align="center">Frontend developer </h3>
 
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
