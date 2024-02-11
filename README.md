@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaaditi24&label=Profile%20views&color=0e75b6&style=flat" alt="sahaaditi24" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 FrontEnd Enthusiast
 
 - 📫 How to reach me **aditisaha024@gmail.com**
 
